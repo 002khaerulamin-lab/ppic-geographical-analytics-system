@@ -40,6 +40,4 @@ Dashboard dikembangkan dengan tema visual *Emerald Industrial* yang profesional,
 * **Deteksi Cepat Anomali Material:** Mengidentifikasi secara instan wilayah ekspor yang kurang efisien (seperti Filipina dan Australia yang memiliki volume *reject* tinggi meskipun total produksinya rendah).
 
 
-<img width="909" height="688" alt="image" src="https://github.com/user-attachments/assets/aad3a258-77ae-430e-8283-5876702904b7" />
 
-* **Mitigasi Keterlambatan Pengiriman:** Memantau sisa kekurangan produksi global sebesar **900 Kg** agar langsung dijadwalkan ulang sebelum melewati batas waktu pengapalan.
